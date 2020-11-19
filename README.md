@@ -2,7 +2,7 @@
 
 <p float="left">
 <a href = "https://github.com/zaman13/iLabs-MATLAB-code-Thorlabs-MTS25-Z8-stage-with-TDC001-controller/tree/main/Codes"> <img src="https://img.shields.io/badge/Language-MATLAB-blue" alt="alt text"> </a>
-<a href = "https://github.com/zaman13/Three-Body-Problem-Gravitational-System/blob/master/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-green" alt="alt text"></a>
+<a href = "https://github.com/zaman13/iLabs-MATLAB-code-Thorlabs-MTS25-Z8-stage-with-TDC001-controller/blob/main/LICENSE.md"> <img src="https://img.shields.io/badge/license-MIT-green" alt="alt text"></a>
 <a href = "https://github.com/zaman13/iLabs-MATLAB-code-Thorlabs-MTS25-Z8-stage-with-TDC001-controller/tree/main/Codes"> <img src="https://img.shields.io/badge/version-1.0-red" alt="alt text"> </a>
 </p>
 
